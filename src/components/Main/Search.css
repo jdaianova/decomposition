@@ -1,0 +1,51 @@
+.Search li {
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+.Search ul {
+    display: flex;
+    flex-direction: row;
+    padding-left: 150px;
+}
+
+.Search input {
+    width: 800px;
+    height: 40px;
+    border: 2px solid yellow;
+}
+
+.Search label {
+    font-size: 40px;
+    margin-right: 20px;
+}
+
+.Search label::first-letter {
+    color: red;
+}
+
+.Search button {
+    font-size: 20px;
+    padding: 12px;
+    background-color: yellow;
+    border: none;
+}
+
+.Search p {
+    padding-left: 150px;
+}
+
+.Search span {
+    color: grey;
+}
+
+.Search form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.Search a {
+    color:rgb(30, 70, 170);
+    font-weight: bold;
+}

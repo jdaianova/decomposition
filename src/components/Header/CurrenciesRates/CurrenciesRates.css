@@ -1,0 +1,23 @@
+.Currencies-rates {
+    display: flex;
+    flex-direction: row;
+}
+
+.Currencies-rates-list {
+    display: flex;
+    flex-direction: row;
+    margin-right: 15px;
+}
+
+.Currencies-rates-item-name {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.Currencies-rates-item-value {
+    margin-right: 5px;
+}
+
+.Currencies-rates-item-difference {
+    color: grey;
+}

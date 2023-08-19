@@ -1,0 +1,26 @@
+.News {
+    display: flex;
+    flex-direction: column;
+}
+
+.News-categories {
+    display: flex;
+    flex-direction: row;
+    color: rgb(6, 74, 185);
+    margin-bottom: 15px;
+}
+
+.News-categories-title {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.News-content-title {
+    margin-bottom: 12px;
+}
+
+.News-date {
+    color: grey;
+    font-size: 10px;
+    line-height: 2.2em;
+}

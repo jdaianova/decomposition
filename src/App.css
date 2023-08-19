@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.App {
+    width: 1200px;
+}
+
+.Header {
+    display: flex;
+    padding-left: 150px;
+}
+
+.Header-left-side {
+    width: 900px;
+}
+
+.Header-right-side {
+    width: 300px;
+}

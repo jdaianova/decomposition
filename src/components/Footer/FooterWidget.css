@@ -1,0 +1,22 @@
+.Widget-info {
+    background-color: rgb(240, 240, 240);
+    border-radius: 10px;
+    padding-left: 30px;
+    width: 356px;
+    margin-bottom: 10px;
+}
+
+.Widget-info:nth-child(3n-1) {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.FooterWidget {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
